@@ -1,0 +1,23 @@
+[ ] Quitar Title.jsx como componente genérico, se ha hecho demasiado específico al añadirle el router.push()
+
+[ ] Revisar imports (Organize imports)
+
+[ ] Documentar
+
+[ ] Revisar los tipos any (any por falta de tiempo)
+
+[X] Limpiar console.log()
+
+[ ] Limpiar comentarios de Debug y código viejo
+
+[ ] News y ArchivedNews son prácticamente iguales, se podrían juntar
+
+[ ] Filtrado de archived-no archives se podría hacer en el server en vez de recorrer el array 2 veces
+
+[ ] Estilos (Variant) botones crear delete archivar vuelta atras...
+
+[ ] Mejorar visibilidad modo día
+
+[ ] Hacer mucho más responsive
+
+[ ] Como integrar axios - redux con NextJS para Server Side Rendering?????
